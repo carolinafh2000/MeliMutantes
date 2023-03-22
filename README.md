@@ -23,9 +23,12 @@ IMPORTANTE: En este caso el proyecto fue desarrollado en Ubuntu, por lo cual los
 * Ejecutar el proyecto con el siguiente comando mvn spring-boot:run
 
 ### Dominio AWS
+(Instancia actual)
+POST http://ec2-18-223-170-239.us-east-2.compute.amazonaws.com:8080/mutant/
+GET http://ec2-18-223-170-239.us-east-2.compute.amazonaws.com:8080/stats
 
+(Instancia anterior,evidencias)
 POST: http://ec2-3-133-129-169.us-east-2.compute.amazonaws.com:8080/mutant/
-
 GET: http://ec2-3-133-129-169.us-east-2.compute.amazonaws.com:8080/stats
 
 ### Arquitectura
