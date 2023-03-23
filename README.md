@@ -26,7 +26,13 @@ IMPORTANTE: En este caso el proyecto fue desarrollado en Ubuntu, por lo cual los
 (Instancia actual)
 POST http://ec2-18-223-170-239.us-east-2.compute.amazonaws.com:8080/mutant/
 
+![image](https://user-images.githubusercontent.com/87741723/227241306-626c8e50-d014-4eb1-9dba-f5461da97047.png)
+
+
 GET http://ec2-18-223-170-239.us-east-2.compute.amazonaws.com:8080/stats
+
+![image](https://user-images.githubusercontent.com/87741723/227241098-7133aa39-83bb-4b66-874f-53653a6e83c0.png)
+
 
 (Instancia anterior,evidencias)
 POST: http://ec2-3-133-129-169.us-east-2.compute.amazonaws.com:8080/mutant/
